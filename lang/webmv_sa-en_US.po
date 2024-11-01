@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Accessibility\n"
+"POT-Creation-Date: 2016-10-05 11:31+0200\n"
+"PO-Revision-Date: 2016-10-05 11:32+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class/Simple_Accessibility.php:94
+msgid "Simple Accessibility Einstellungen"
+msgstr "Simple Accessibility Settings"
+
+#: class/Simple_Accessibility.php:94 class/Simple_Accessibility_Widget.php:15
+#: templates/options.php:3
+msgid "Simple Accessibility"
+msgstr "Simple Accessibility"
+
+#: class/Simple_Accessibility.php:120
+msgid "Schwarz-Weiß"
+msgstr "Black-White"
+
+#: class/Simple_Accessibility.php:121
+msgid "Kontrast"
+msgstr "Contrast"
+
+#: class/Simple_Accessibility.php:122
+msgid "Zurückstellen"
+msgstr "Reset"
+
+#: class/Simple_Accessibility.php:123
+msgid "Drücke Strg +"
+msgstr "Press Ctrl +"
+
+#: class/Simple_Accessibility.php:124
+msgid "Drücke Strg -"
+msgstr "Press Ctrl -"
+
+#: class/Simple_Accessibility.php:156
+msgid "Einstellungen & Hilfe"
+msgstr "Settings & Help"
+
+#: class/Simple_Accessibility_Widget.php:30
+msgid "Titel"
+msgstr "Title"
+
+#: simple-accessibility.php:12
+msgid "Something went wrong."
+msgstr "Something went wrong."
+
+#: templates/options.php:5
+msgid "So funktioniert es"
+msgstr "How it works"
+
+#: templates/options.php:7
+msgid ""
+"Mit mindestens einer dieser Methoden kannst Du \"Simple Accessibility\" in "
+"deine Webseite einfügen:"
+msgstr ""
+"With just one option you can insert \"Simple Accessibility\" into your "
+"website:"
+
+#: templates/options.php:9
+msgid ""
+"Gehe in \"Widgets\" und platziere das Widget \"Simple Accessiblity\" in "
+"deine Sidebar"
+msgstr ""
+"Go to \"Widgets\" and insert widget \"Simple Accessiblity\" into your Sidebar"
+
+#: templates/options.php:11
+msgid "Füge diesen Code an eine beliebige Stelle in dein Wordpress Theme ein:"
+msgstr "Insert this code on any place in your wordpress theme:"
+
+#: templates/options.php:18
+msgid "Füge den Shortcode \"[simple_accessibility]\" in einen Beitrag ein"
+msgstr "Insert this Shortcode \"[simple_accessibility]\" in anyone article"
+
+#: templates/options.php:19
+msgid "Aktiviere die \"Layer\" Option"
+msgstr "Activate the \"Layer\" Option"
+
+#: templates/options.php:23
+msgid "Einstellungen"
+msgstr "Settings"
+
+#: templates/options.php:30
+msgid "Layer"
+msgstr "Layer"
+
+#~ msgid "Strg +"
+#~ msgstr "Ctrl +"
+
+#~ msgid "Strg -"
+#~ msgstr "Ctrl -"
